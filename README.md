@@ -1,8 +1,8 @@
-# Лабораторная работа 9
+# Лабораторная работа 10
 ### Смирнов В.С.
 
 # Запуск программы с подачей картинки в командной строке
-![AgeGenderPhoto](./results/--image.jpg)
+![--image](./results/--image.jpg)
 
 # Выбор картинки внутри программы
-![AgeGenderPhoto](./results/open_file.gif)
+![openFile](./results/open_file.gif)
